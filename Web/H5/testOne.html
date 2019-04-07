@@ -1,0 +1,104 @@
+<!DOCTYPE html>  
+<html>  
+<head lang="en">  
+<meta charset="UTF-8">  
+<title>table布局</title>
+<link type="text/css" rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap.min.css">
+<link type="text/css" rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap-reboot.min.css">
+<link type="text/css" rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap-grid.min.css">
+   <!-- <link type="text/css" rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap.css">
+       <link type="text/css" rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap-reboot.css">
+           <link type="text/css" rel="stylesheet" href="bootstrap-4.3.1-dist/css/bootstrap-grid.css"> -->
+
+<link type="text/css" rel="stylesheet" href="jquery/jquery-3.3.1.min.js.css">
+<script type="text/javascript" src="popper/popper.min.js"></script>
+<script type="text/javascript" src="holder/holder.min.js"></script>
+<script type="text/javascript" src="clipboard/clipboard.min.js"></script>
+<script type="text/javascript" src="anchor/anchor.min.js"></script>
+
+<!-- <script type="text/javascript" src="bootstrap-4.3.1-dist/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js"></script>
+<script type="text/javascript" src="bootstrap-4.3.1-dist/js/bootstrap.js"></script>
+<script type="text/javascript" src="bootstrap-4.3.1-dist/js/bootstrap.bundle.js"></script>
+
+<script type="text/javascript" src="jquery/jquery-3.3.1.min.js.css"></script>
+<script type="text/javascript" src="jquery/jquery-3.3.1.js.css"></script> -->
+
+
+
+<script type="text/javascript" src="session.js"></script>
+
+<meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+<script type="text/javascript">
+ $(document).ready(function(){
+    $('[data-toggle="tooltip"]').tooltip();   
+});
+</script>
+
+<script type="text/css">
+    body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.428571429;
+  color: #333333;
+  background-color: #ffffff;
+}
+.img-responsive {
+display: inline-block;
+height: auto;
+max-width: 100%;
+
+}
+</script>
+</head>
+<body>
+<div class="container-fluid"> 
+  <div> 
+    <input id="input" type="text">
+    <input type="button" onclick="saveSessionStorage('input')" value="session 保存">
+    <p id="msg"></p>
+    <input type="button" onclick="loadSessionStorage('msg')" value="session 获取">
+  </div>
+  <div>
+    <p id="msg1"></p>
+    <textarea id="memo" cols="60" rows="10"></textarea>
+    <input type="button" onclick="saveLocalStorage('memo')" value="追加数据">
+    <input type="button" onclick="clearStorage()" value="清除数据">
+  </div>
+
+  <div>
+      <table>
+        <tr>
+          <td>姓名：</td>
+          <td><input id="name" type="text"></td>
+        </tr>
+        <tr>
+            <td>Email：</td>
+            <td><input id="email" type="text"></td>
+          </tr>
+          <tr>
+              <td>电话：</td>
+              <td><input id="tel" type="text"></td>
+            </tr>
+            <tr>
+                <td>备注：</td>
+                <td><input id="memo1" type="text"></td>
+              </tr>
+              <tr>
+                  <td></td>
+                  <td><input type="button" onclick="saveUserInfo()" value="保存"></td>
+                </tr>
+      </table>
+      <hr>
+      <p>
+        <input id="find" type="text">
+        <input type="button" onclick="loadUserInfo('msg2')" value="检索">
+      </p>
+      <p id="msg2"></p>
+    </div>
+   </div>
+ </div>
+</body>  
+</html>
