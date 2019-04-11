@@ -17,9 +17,9 @@ class RootViewController: UIViewController {
     }
     
     @IBAction func showWebViewAction(_ sender: Any) {
-        let viewController = ViewController()
-        viewController.pageName = "testOne"
-        navigationController?.pushViewController(viewController, animated: true)
+            let viewController = ViewController()
+            viewController.pageName = "testOne"
+            navigationController?.pushViewController(viewController, animated: true)
     }
     
     /*

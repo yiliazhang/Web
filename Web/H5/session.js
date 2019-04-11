@@ -1,3 +1,4 @@
+'use strict';
 function saveSessionStorage(id) {
     var target = document.getElementById(id);
     var str = target.value;
