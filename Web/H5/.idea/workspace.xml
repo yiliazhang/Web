@@ -2,99 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d579bf72-a630-48f2-bf8d-6461c178bea1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bootstrap-test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/holder/holder.min.js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery-mobile-test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jquery-ui-test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qunit-test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Web.xcodeproj/project.xcworkspace/xcuserdata/apple.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web.xcodeproj/project.xcworkspace/xcuserdata/apple.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anchor/anchor.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/anchor/anchor.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clipboard/clipboard.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/clipboard/clipboard.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/holder/holder.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/.bowerrc" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/.bowerrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/.jscsrc" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/.jscsrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/.jshintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/.mailmap" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/.mailmap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/.npmrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/AUTHORS.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/AUTHORS.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/CONTRIBUTING.md" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/CONTRIBUTING.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/Gruntfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/Gruntfile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/bower.json" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/bower.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/build/release.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/build/release.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/dist/sizzle.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/dist/sizzle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/dist/sizzle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/dist/sizzle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/dist/sizzle.min.map" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/dist/sizzle.min.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/benchmark/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/benchmark/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/benchmark/benchmark.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/benchmark/benchmark.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/dojo/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/dojo/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/dojo/dojo.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/dojo/dojo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/jquery-1.7.2/MIT-LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/jquery-1.7.2/MIT-LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/jquery-1.7.2/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/jquery-1.7.2/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/jquery-1.8.3/MIT-LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/jquery-1.8.3/MIT-LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/jquery-1.8.3/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/jquery-1.8.3/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/jquery/MIT-LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/jquery/MIT-LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/mootools-slick/slick.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/mootools-slick/slick.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/nwmatcher/MIT-LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/nwmatcher/MIT-LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/nwmatcher/nwmatcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/nwmatcher/nwmatcher.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/qunit/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/qunit/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/qunit/qunit.css" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/qunit/qunit.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/qunit/qunit.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/qunit/qunit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/qwery/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/qwery/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/qwery/qwery.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/qwery/qwery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/requirejs-domready/domReady.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/requirejs-domready/domReady.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/requirejs-text/text.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/requirejs-text/text.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/requirejs/require.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/requirejs/require.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/sizzle-old/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/sizzle-old/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/external/sizzle-old/sizzle.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/external/sizzle-old/sizzle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/speed/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/speed/.jshintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/speed/data/selector.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/speed/data/selector.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/speed/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/speed/images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/speed/images/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/speed/images/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/speed/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/speed/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/speed/selectors.css" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/speed/selectors.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/speed/selectors.large.css" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/speed/selectors.large.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/speed/selectors.small.css" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/speed/selectors.small.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/speed/speed.css" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/speed/speed.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/speed/speed.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/speed/speed.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/src/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/src/.jshintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/src/sizzle.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/src/sizzle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/tasks/commit.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/tasks/commit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/tasks/compile.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/tasks/compile.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/tasks/dist.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/tasks/dist.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/tasks/ensure_ascii.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/tasks/ensure_ascii.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/tasks/release.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/tasks/release.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/tasks/tag.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/tasks/tag.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/tasks/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/tasks/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/tasks/version.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/tasks/version.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/.jshintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/data/empty.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/data/empty.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/data/fixtures.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/data/fixtures.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/data/mixed_sort.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/data/mixed_sort.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/data/noConflict.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/data/noConflict.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/data/testingPseudos.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/data/testingPseudos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/data/testinit.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/data/testinit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/data/testrunner.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/data/testrunner.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/karma/.jshintrc" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/karma/.jshintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/karma/karma.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/karma/karma.conf.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/karma/launchers.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/karma/launchers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/unit/extending.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/unit/extending.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/unit/selector.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/unit/selector.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery-sizzle-7d92424/test/unit/utilities.js" beforeDir="false" afterPath="$PROJECT_DIR$/jquery-sizzle/test/unit/utilities.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modal.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/popper/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qunit-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/qunit-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testOne.html" beforeDir="false" afterPath="$PROJECT_DIR$/testOne.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -107,26 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/qunit-test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -144,17 +34,17 @@
       <list>
         <option value="$PROJECT_DIR$/mobile.html" />
         <option value="$PROJECT_DIR$/jquery-mobile-test.html" />
-        <option value="$PROJECT_DIR$/testOne.html" />
         <option value="$PROJECT_DIR$/bootstrap-test.html" />
         <option value="$PROJECT_DIR$/jquery-ui-test.html" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/qunit-test.html" />
         <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/testOne.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="383" />
+    <option name="x" value="165" />
     <option name="y" value="23" />
     <option name="width" value="1057" />
     <option name="height" value="831" />
@@ -167,28 +57,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="H5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="H5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="H5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="H5" type="462c0819:PsiDirectoryNode" />
-              <item name="anchor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="H5" type="b2602c69:ProjectViewProjectNode" />
-              <item name="H5" type="462c0819:PsiDirectoryNode" />
-              <item name="anchor" type="462c0819:PsiDirectoryNode" />
-              <item name="anchor.js" type="620a8d5e:NestingTreeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -228,16 +97,15 @@
       <updated>1554812166180</updated>
       <workItem from="1554812169423" duration="737000" />
       <workItem from="1555246293347" duration="4150000" />
-      <workItem from="1555251381608" duration="2307000" />
+      <workItem from="1555251381608" duration="2616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7194000" />
+    <option name="totallyTimeSpent" value="7503000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="383" y="23" width="1057" height="831" extended-state="0" />
-    <editor active="true" />
+    <frame x="165" y="23" width="1057" height="831" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20173745" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -267,13 +135,6 @@
         <state relative-caret-position="-447" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testOne.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/holder/holder.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -301,44 +162,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-ui-test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dom.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jquery-mobile-test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pure.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -349,10 +172,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.js">
+    <entry file="file://$PROJECT_DIR$/testOne.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        <state relative-caret-position="60">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-mobile-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -362,6 +192,44 @@
           <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery-ui-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pure.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dom.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
