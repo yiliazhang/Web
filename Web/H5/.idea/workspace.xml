@@ -2,9 +2,570 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d579bf72-a630-48f2-bf8d-6461c178bea1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/qunit-test.html" beforeDir="false" afterPath="$PROJECT_DIR$/qunit-test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testOne.html" beforeDir="false" afterPath="$PROJECT_DIR$/testOne.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/apple.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/anchor-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/clipboard-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/holder-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/less-test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/popper-test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Web.xcodeproj/project.xcworkspace/xcuserdata/apple.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../Web.xcodeproj/project.xcworkspace/xcuserdata/apple.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/H5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/H5.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/css/jqm-demos.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/album-af.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/album-ag.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/album-bb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/album-bk.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/album-hc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/album-k.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/album-mg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/album-ok.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/album-p.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/album-rh.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/album-ws.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/album-xx.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/apple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/bg-pattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/bike.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/blackberry_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/bmw-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/bmw.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/buenosaires.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/capetown.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/de.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/devices.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/fi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/firefox-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/firefox_os.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/galaxy_express.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/gb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/gf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/glyphish-icons/09-chat2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/glyphish-icons/100-coffee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/glyphish-icons/18-envelope.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/glyphish-icons/19-gear.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/glyphish-icons/21-skull.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/glyphish-icons/30-key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/glyphish-icons/34-coffee.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/glyphish-icons/88-beermug.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/glyphish-icons/Read me first - license.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/jquery-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/landrover-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/landrover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/lumia_800.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/newyork.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/nexus_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/paris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/phone_galaxy3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/phone_iphone5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/phone_lumia920.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/phone_onex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/photo-landscape.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/photo-portrait.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/photo-run.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/seoul.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/sydney.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/tesla-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/tesla.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/tizen.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/img/us.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/js/h2widget.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/js/jqm-demos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_assets/js/view-source.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/_search/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/backbone-requirejs/backbone-require.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/backbone-requirejs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/backbone-requirejs/js/collections/CategoriesCollection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/backbone-requirejs/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/backbone-requirejs/js/models/CategoryModel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/backbone-requirejs/js/routers/mobileRouter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/backbone-requirejs/js/views/CategoryView.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/body-bar-classes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/button-markup/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/button/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/checkboxradio-checkbox/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/checkboxradio-radio/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/collapsible-dynamic/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/collapsible/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/collapsibleset/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/controlgroup-dynamic/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/controlgroup/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/action-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/action-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/alert-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/alert-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-d-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-d-l-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-d-l-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-d-r-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-d-r-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-d-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-l-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-l-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-r-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-r-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-u-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-u-l-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-u-l-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-u-r-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-u-r-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/arrow-u-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/audio-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/audio-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/back-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/back-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/bars-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/bars-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/bullets-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/bullets-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/calendar-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/calendar-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/camera-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/camera-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/carat-d-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/carat-d-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/carat-l-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/carat-l-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/carat-r-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/carat-r-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/carat-u-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/carat-u-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/check-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/check-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/clock-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/clock-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/cloud-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/cloud-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/comment-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/comment-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/delete-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/delete-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/edit-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/edit-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/eye-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/eye-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/forbidden-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/forbidden-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/forward-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/forward-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/gear-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/gear-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/grid-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/grid-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/heart-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/heart-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/home-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/home-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/info-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/info-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/location-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/location-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/lock-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/lock-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/mail-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/mail-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/minus-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/minus-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/navigation-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/navigation-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/phone-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/phone-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/plus-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/plus-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/power-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/power-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/recycle-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/recycle-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/refresh-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/refresh-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/search-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/search-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/shop-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/shop-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/star-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/star-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/tag-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/tag-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/user-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/user-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/video-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-png/video-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/action-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/action-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/alert-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/alert-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-d-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-d-l-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-d-l-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-d-r-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-d-r-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-d-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-l-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-l-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-r-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-r-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-u-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-u-l-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-u-l-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-u-r-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-u-r-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/arrow-u-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/audio-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/audio-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/back-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/back-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/bars-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/bars-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/bullets-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/bullets-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/calendar-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/calendar-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/camera-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/camera-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/carat-d-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/carat-d-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/carat-l-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/carat-l-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/carat-r-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/carat-r-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/carat-u-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/carat-u-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/check-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/check-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/clock-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/clock-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/cloud-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/cloud-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/comment-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/comment-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/delete-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/delete-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/edit-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/edit-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/eye-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/eye-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/forbidden-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/forbidden-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/forward-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/forward-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/gear-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/gear-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/grid-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/grid-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/heart-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/heart-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/home-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/home-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/info-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/info-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/location-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/location-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/lock-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/lock-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/mail-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/mail-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/minus-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/minus-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/navigation-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/navigation-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/phone-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/phone-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/plus-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/plus-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/power-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/power-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/recycle-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/recycle-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/refresh-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/refresh-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/search-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/search-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/shop-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/shop-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/star-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/star-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/tag-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/tag-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/user-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/user-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/video-black.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/images/icons-svg/video-white.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/jquery.mobile-1.4.5.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/jquery.mobile.external-png-1.4.5.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/jquery.mobile.icons-1.4.5.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/jquery.mobile.inline-png-1.4.5.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/jquery.mobile.inline-svg-1.4.5.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/jquery.mobile.structure-1.4.5.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/css/themes/default/jquery.mobile.theme-1.4.5.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/datepicker/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/filterable/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/flipswitch/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/forms-disabled/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/forms-field-contain/fieldcontain-hide-label-deprecated.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/forms-field-contain/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/forms-gallery/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/forms-label-hidden-accessible/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/forms/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/grids-buttons/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/grids-custom-responsive/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/grids/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/icons-grunticon/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/icons/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/intro/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/jqm-contents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/jqm-contents.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/jqm-navmenu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/jqm-navmenu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/jqm-search.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/jqm-search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/js/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/js/jquery.mobile-1.4.5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/js/jquery.mobile-1.4.5.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/js/jquery.mobile-1.4.5.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-autocomplete-remote/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-autocomplete/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-autodividers-linkbar/autodividers-linkbar-demo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-autodividers-linkbar/autodividers-linkbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-autodividers-linkbar/autodividers-linkbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-autodividers-linkbar/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-autodividers-selector/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-collapsible-item-flat/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-collapsible-item-indented/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-grid/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-grid/listview-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-grid/listview-grid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview-nested-lists/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/listview/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/loader/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/map-geolocation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/map-list-toggle/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/map-list-toggle/jquery.gmap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/map-list-toggle/showMore.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/navbar/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/navigation-hash-processing/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/navigation-linking-pages/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/navigation-php-redirect/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/navigation-php-redirect/redirect-target.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/navigation-php-redirect/redirect.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/navigation-php-redirect/source.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/navigation/demo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/navigation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/controls-in-header-footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/disabling-a-button-does-not-work.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/dom-ready-not-working.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/how-can-i-stop-auto-enhancement-of-a-block-of-elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/how-can-i-stop-auto-enhancement-of-elements.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/how-configure-phonegap-cordova.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/how-do-i-control-page-titles.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/how-do-i-load-a-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/how-do-i-scroll-to-a-position.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/how-do-i-turn-off-url-hiding.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/how-do-i-use-touch-mouse-events.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/how-does-theming-work.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/injected-content-is-not-enhanced.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/my-html-5-inputs-look-different-in-browsers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/my-range-search-input-type-is-being-changed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/pass-query-params-to-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/pass-via-the-hash-to-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/scripts-and-styles-not-loading.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/sometimes-custom-select-shows-as-dialog-popup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/the-application-cache-is-not-working.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/triggering-create-on-injected-content-does-not-work.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/updating-the-value-of-enhanced-form-elements-does-not-work.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/why-is-only-the-first-page-loaded.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/old-faq-pages/why-wont-my-css-styles-apply-correctly-to-a-widget.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/alertevents-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/alertevents-2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/alertevents-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/alertevents-3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/alertevents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/alertevents.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/docs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/docs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/logevents-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/logevents-2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/logevents-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/logevents-3.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/logevents.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/page-events/logevents.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages-dialog/dialog-alt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages-dialog/dialog-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages-dialog/dialog-corners.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages-dialog/dialog-noclosebtn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages-dialog/dialog-overlay.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages-dialog/dialog-rightclosebtn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages-dialog/dialog-success.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages-dialog/dialog-with-select.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages-dialog/dialog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages-dialog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages-multi-page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages-single-page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages/samepagetransition.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/pages/startpage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/panel-external-internal/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/panel-external-internal/page-b.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/panel-external-internal/page-c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/panel-external/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/panel-external/page-b.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/panel-fixed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/panel-responsive/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/panel-styling/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/panel-swipe-open/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/panel/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/popup-alignment/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/popup-alignment/popup.alignment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/popup-arrow-size/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/popup-dynamic/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/popup-iframe/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/popup-iframe/map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/popup-iframe/popup-iframe-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/popup-iframe/popup-iframe-video.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/popup-image-scaling/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/popup-image-scaling/popup-image-scaling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/popup-outside-multipage/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/popup/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/rangeslider/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/rwd/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/selectmenu-custom-filter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/selectmenu-custom/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/selectmenu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/slider-flipswitch/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/slider-tooltip/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/slider/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/swipe-list/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/swipe-page/buenosaires.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/swipe-page/capetown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/swipe-page/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/swipe-page/newyork.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/swipe-page/paris.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/swipe-page/seoul.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/swipe-page/swipe-page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/swipe-page/swipe-page.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/swipe-page/sydney.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/table-column-toggle-example/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/table-column-toggle-heading-groups/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/table-column-toggle-options/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/table-column-toggle/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/table-reflow-heading-groups/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/table-reflow-stripes-strokes/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/table-reflow-styling/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/table-reflow/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/tabs/ajax-content-ignore.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/tabs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/tabs/tabbed-content.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/textinput/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/theme-classic/images/ajax-loader.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/theme-classic/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/theme-classic/theme-classic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/theme-default/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-dynamic/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-external/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-external/index2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-fixed-external/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-fixed-forms/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-fixed-fullscreen/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-fixed-persistent-optimized/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-fixed-persistent-optimized/page-b.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-fixed-persistent-optimized/page-c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-fixed-persistent-optimized/page-d.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-fixed-persistent/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-fixed-persistent/page-b.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-fixed-persistent/page-c.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-fixed-persistent/page-d.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar-fixed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/toolbar/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/transitions/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/transitions/page-transitions-dialog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-mobile/demos/transitions/page-transitions-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/.bowerrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/.jscsrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/.mailmap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/.npmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/build/release.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/dist/sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/dist/sizzle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/dist/sizzle.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/benchmark/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/benchmark/benchmark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/dojo/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/dojo/dojo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/jquery-1.7.2/MIT-LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/jquery-1.7.2/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/jquery-1.8.3/MIT-LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/jquery-1.8.3/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/jquery/MIT-LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/jquery/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/mootools-slick/slick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/nwmatcher/MIT-LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/nwmatcher/nwmatcher.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/qunit/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/qunit/qunit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/qunit/qunit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/qwery/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/qwery/qwery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/requirejs-domready/domReady.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/requirejs-text/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/requirejs/require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/sizzle-old/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/external/sizzle-old/sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/speed/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/speed/data/selector.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/speed/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/speed/images/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/speed/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/speed/selectors.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/speed/selectors.large.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/speed/selectors.small.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/speed/speed.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/speed/speed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/src/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/src/sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/tasks/commit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/tasks/compile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/tasks/dist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/tasks/ensure_ascii.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/tasks/release.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/tasks/tag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/tasks/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/tasks/version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/data/empty.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/data/fixtures.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/data/mixed_sort.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/data/noConflict.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/data/testingPseudos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/data/testinit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/data/testrunner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/karma/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/karma/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/karma/launchers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/unit/extending.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/unit/selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jquery-sizzle/test/unit/utilities.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,15 +577,75 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap-test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="22" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/less-test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="57" column="147" selection-start-line="57" selection-start-column="147" selection-end-line="57" selection-end-column="147" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testOne.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1095">
+              <caret line="73" column="51" lean-forward="true" selection-start-line="73" selection-start-column="51" selection-end-line="73" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/session.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="585">
+              <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bootstrap-4.3.1-dist/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27840">
+              <caret line="1856" column="1" selection-start-line="1856" selection-start-column="1" selection-end-line="1856" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>control</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -40,14 +661,28 @@
         <option value="$PROJECT_DIR$/qunit-test.html" />
         <option value="$PROJECT_DIR$/test.js" />
         <option value="$PROJECT_DIR$/testOne.html" />
+        <option value="$PROJECT_DIR$/popper-test.html" />
+        <option value="$PROJECT_DIR$/holder-test.html" />
+        <option value="$PROJECT_DIR$/clipboard.html" />
+        <option value="$PROJECT_DIR$/anchor-test.html" />
+        <option value="$PROJECT_DIR$/less-test.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="165" />
-    <option name="y" value="23" />
-    <option name="width" value="1057" />
-    <option name="height" value="831" />
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -57,15 +692,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="H5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="H5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="H5" type="462c0819:PsiDirectoryNode" />
+              <item name="jquery-ui-1.12.1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.smartKeys" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -86,7 +743,7 @@
     </option>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -98,16 +755,19 @@
       <workItem from="1554812169423" duration="737000" />
       <workItem from="1555246293347" duration="4150000" />
       <workItem from="1555251381608" duration="2616000" />
+      <workItem from="1555765435272" duration="2962000" />
+      <workItem from="1555768743798" duration="4106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7503000" />
+    <option name="totallyTimeSpent" value="14571000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="165" y="23" width="1057" height="831" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20173745" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16237482" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -124,10 +784,32 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Json Parser" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/less-test.html</url>
+          <line>46</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="H5" type="b2602c69:ProjectViewProjectNode" />
+        <item name="H5" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/jquery-ui-1.12.1/index.html">
@@ -135,16 +817,7 @@
         <state relative-caret-position="-447" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/holder/holder.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/holder/holder.min.js" />
     <entry file="file://$PROJECT_DIR$/clipboard/clipboard.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -155,29 +828,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/modal.html" />
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/session.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testOne.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery-mobile-test.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -200,13 +853,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jquery-ui-test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -221,15 +867,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap-test.html">
+    <entry file="file://$PROJECT_DIR$/dom.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/holder-test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dom.js">
+    <entry file="file://$PROJECT_DIR$/anchor-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clipboard-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/popper-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery/jquery-3.3.1.min.js.css">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jquery/jquery-3.3.1.js.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4.3.1-dist/js/bootstrap.bundle.min.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4392" />
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap-4.3.1-dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27840">
+          <caret line="1856" column="1" selection-start-line="1856" selection-start-column="1" selection-end-line="1856" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testOne.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="51" lean-forward="true" selection-start-line="73" selection-start-column="51" selection-end-line="73" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/session.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="51" column="32" selection-start-line="51" selection-start-column="32" selection-end-line="51" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less-test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="57" column="147" selection-start-line="57" selection-start-column="147" selection-end-line="57" selection-end-column="147" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
